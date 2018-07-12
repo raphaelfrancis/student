@@ -5,7 +5,7 @@
      var studentgender = $('#studentgender').val();
      var studentaddress = $('#studentaddress').val();
      var studentrollno = $('#studentrollno').val();
-     
+     alert(studentgender);
      var data = {};
       if(studentname == '') 
       {

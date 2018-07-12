@@ -1,6 +1,7 @@
 <html>
-<head><center><h1>VIEW STUDENT DATA</h1></center></head>
+<head></head>
 <body>
+<center><h1>VIEW MORE STUDENT DATA</h1></center>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
         <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
         <link href='custom.css' rel='stylesheet' type='text/css'>

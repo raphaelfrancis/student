@@ -18,13 +18,7 @@ class Studentcontroller extends CI_Controller
      }
      public function addstudentdata()
      {
-        $studentname = $this->input->post('studentname');
-        $studentage = $this->input->post('studentage');
-        $studentgender = $this->input->post('studentgender');
-        $studentaddress = $this->input->post('studentaddress');
-        $studentrollno = $this->input->post('studentrollno');
-        echo $studentname;
-        exit();            
+                    
 
         //  echo "<script> alert('adasd'); </script>";
         //  exit();
